@@ -11,7 +11,7 @@ export default function Platform() {
             </h1>
 
             <p className="text-base sm:text-lg lg:text-xl text-gray-700 max-w-2xl leading-relaxed">
-              You don't have to spend a fortune to run a world-class
+              You don&apos;t {" "} have to spend a fortune to run a world-class
               revenue-generating machine. Replace ZoomInfo, Outreach, Salesloft,
               Gong, Chili Piper, and more with Apollo to cut costs and get
               better results.

@@ -59,7 +59,7 @@ export default function Hero() {
 
           {/* Terms & Policy */}
           <p className="text-sm text-gray-600 max-w-md whitespace-nowrap">
-            By signing up, I agree to Apollo's{" "}
+            By signing up, I agree to Apollo&apos;s{" "}
             <Link href="#" className="underline">
               Terms of Service
             </Link>{" "}
