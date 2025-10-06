@@ -5,7 +5,7 @@ export default function Platform() {
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
           {/* Left Content */}
           <div className="space-y-6 lg:space-y-8">
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-900 leading-tight">
+            <h1 className="text-4xl sm:text-3xl  font-bold text-gray-900 leading-tight">
               The best sales platform in the world, at an (almost) unbelievable
               value
             </h1>

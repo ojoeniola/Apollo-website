@@ -26,10 +26,10 @@ export default function Features() {
   ];
 
   const benefits = [
-    { icon: "👥", text: "Access the world's best B2B data" },
-    { icon: "✨", text: "Multiple data sources in one place" },
-    { icon: "🤖", text: "AI assistant for smarter outreach" },
-    { icon: "💡", text: "Personalization across every channel" },
+    { icon: "👥", text: "Pipeline Builder Build pipleline faster with faster data, smarter AI and easier automation." },
+    { icon: "✨", text: "Call Assistant Closse every winnable deals with cll recordings, meeting scheduling and AI insights." },
+    { icon: "🤖", text: "Data Enrichment Keeping your CRM and marketing automation data up to date, all the time" },
+    { icon: "💡", text: "Go-To-Market Platform Manage your entire end-to-end sales cycle in Apollo-your ultimate command center" },
   ];
 
   const handleFeatureClick = (href) => {
