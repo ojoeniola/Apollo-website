@@ -39,7 +39,7 @@ export default function Hero() {
           <div className="flex flex-col gap-4 max-w-md w-full">
             <button className="flex items-center justify-center gap-2 px-6 py-3 rounded-md border border-black bg-white text-gray-800 font-medium shadow-sm hover:shadow-md transition">
               <Image
-                src="/images/google.png"
+                src="/Images/google.png"
                 alt="Google Icon"
                 width={17}
                 height={28}
@@ -48,7 +48,7 @@ export default function Hero() {
             </button>
             <button className="flex items-center justify-center gap-2 px-6 py-3 rounded-md border border-black bg-white text-gray-800 font-medium shadow-sm hover:shadow-md transition">
               <Image
-                src="/images/microsoft.png"
+                src="/Images/microsoft.png"
                 alt="Microsoft Icon"
                 width={17}
                 height={28}
@@ -73,7 +73,7 @@ export default function Hero() {
         {/* Right Column (Image) */}
         <div>
           <Image
-            src="/images/heroImage.jpg"
+            src="/Images/heroImage.jpg"
             alt="Hero Image"
             width={500}
             height={500}
